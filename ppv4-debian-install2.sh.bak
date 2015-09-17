@@ -34,7 +34,6 @@ echo "# Downloading U-Boot files.."
 wget http://archlinuxarm.org/os/ppv4/uboot.bin.gz
 
 echo "# Verifying MD5"
-echo "# pass..."
 # /usr/bin/md5sum /tmp/uboot.bin.gz > rfs.md5
 # GOODMD5="0c1c0cea79b5481afed7c3521c79d722"
 #RFSMD5=`grep $GOODMD5 rfs.md5 | cut -d' ' -f1`

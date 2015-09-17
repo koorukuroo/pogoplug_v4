@@ -34,7 +34,6 @@ echo ""
 echo "# Download 'DEBIAN'"
 echo "Notice : It will be downloaded from POGOLINUX MIRROR"
 # wget http://pogo.laikin.tk/Debian-3.14.0-kirkwood-tld-1-rootfs-bodhi.tar.bz2
-wget https://github.com/koorukuroo/pogoplug_v4/blob/master/Debian-3.14.0-kirkwood-tld-1-rootfs-bodhi.tar.bz2?raw=true
 
 echo ""
 echo "# Debian-3.14.0 Download complete."
